@@ -1,0 +1,46 @@
+.service{
+    width: 100%;
+    margin-top: 440px;
+    background-image: url("ser.jpg");
+    object-fit: cover;
+    height:  676px;
+}
+.seri{
+    width: 100%;
+    margin-top: -532px;
+    height:  676px;
+    padding: 16px -1px;
+}
+h4{
+   
+   
+    margin-top: -435px;
+    margin-left: 105px;
+    color: white;
+    font-size: xx-large;
+    padding-top: 290px;
+}
+.ser1{
+    font-size: 64px;
+    margin-left: 103px;
+    margin-top:  14px;;
+    font-weight: bolder;
+    color: aliceblue;
+}
+.a{
+    width: 77px;
+    margin-left: 111px;
+    height: 125px;
+    font-size: 136px;
+    font-family: monospace;
+    color: aliceblue;
+    margin-top: -52px;
+}
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+a:hover {
+    color: #62555e;
+    text-decoration: none;
+}
